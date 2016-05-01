@@ -11,3 +11,5 @@ from .buckling import *
 from .dynamic import *
 from .temperature import *
 from .s_concentration import *
+
+#Import the base class that makes up the environment.
